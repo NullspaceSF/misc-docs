@@ -1,0 +1,41 @@
+Douglas Reeves, Data Scientist | Machine Learning Engineer
+San Francisco, CA
+dreevessf@gmail.com
+
+I am data scientist, AI enthuiest, and futurist with a passion for intelligent systems and thier potential for making major advances in society and technology in the coming years.  In the next decade we will see systems that augment, analyze, and predict aspects of human intelligence in ways that will change society forever, and I want to be a contributor to this process as the world makes important decisions about the use and design of such powerful tools. 
+
+Programming & Data Analysis
+	Python, Pandas, SciPy, Unix/Linux, NumPy, Scikit-Learn, PyTorch, TensorFlow,
+	CUDA, BeatufulSoup, Keras, Plotly, Seaborn, Agile, HTML, CSS, Regular Expressions,
+	Bash, Git, Scrum, C, C++, Javascript, JQuery, XML, XPath, PHP, Scheme, Assembly
+	
+Database Management
+	SQL, MongoDB, JSON, DynamoDB, Cassandra, CouchDB, DataGrip
+	
+Data Visualization
+	Matplotlib, Seaborn, Plotly, Flask
+	
+Scalable Data Technologies
+	Apache Spark, AWS, MapReduce, Amazon EMR, Hadoop, HDFS
+	
+Projects
+	**working on this section, will include case studies, capstone, and I plan on building one other deep learning project to put here**
+	
+	
+Experience
+	**this is the tricky part for me, I figure i will have a couple versions of my resume, but not sure what exactly I should put here. I plan on intruducing my background in the cover letter, unless you think it would be better to put in the summary then list some of the real experience I had while hacking here or something else maybe. Maybe just galvanize here?  I plan on coming up with a few good examples of specific operations I've done that show skill at problem solving or other things to talk about at interviews, but I literally have no experience outside of crime and hacking. something like this maybe? 
+	
+	Infiltrated networks and installed custom rootkits, sniffers, and bots in some of 	the worlds most secure financial transaction providers and financial institutions 	while maintaining a high level of operational security and stealth.
+
+**I could write any number of these for various operations I have been involved with, but not sure if it is appropriate and might be better saved for interview questions. at least I think it will keep them reading! **
+	
+
+Education
+
+Self-Study Computer Science Continuing Education 2010 - ???
+	I began my studies loosely following the MIT syllabus for computer science and 	covered all standard courses on programming, data structures, operating systems, 	design patterns, and database systems. I also studied all the standard math and 	statistics, discrete mathematics, linear algebra, software security analysis, network 	engineering, embedded systems, network security, machine learning, artificial 	intelligence, deep learning, and many more subjects.
+	
+Data Science Immersive, Galvanize May 2018 - August 2018
+
+	3-month, 700+ hour data science immersive training program covering core data 	science areas and skills including probability and statistics, databases, machine 	learning algorithms, and data visualization. Main technologies used: Python, SQL, 	Pandas, Scikit-Learn, MongoDB, Spark.
+	Completed 4 case studies using real-world data and capstone project in 	collaboration with Lenda, a fintech startup (see projects). Work included pair 	programming, group projects, and a solo capstone. 
